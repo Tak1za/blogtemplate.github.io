@@ -51,6 +51,7 @@ html{
 #entry{
 	background: url("https://images.unsplash.com/photo-1479040186803-38f68bbb8e72?dpr=1&auto=compress,format&fit=crop&w=767&h=575&q=80&cs=tinysrgb&crop=");
 	background-size: cover;
+	width: 100%;
 	background-position: center;
 	font-family: Lato;
 	color: white;
