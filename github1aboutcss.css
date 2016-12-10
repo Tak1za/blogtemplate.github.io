@@ -1,0 +1,78 @@
+#topheaderbackground{
+	background-image: url("https://images.unsplash.com/photo-1465640406257-97b8d79f102e?dpr=1&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=");
+	height: 80%;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	z-index: -1;
+}
+
+.profile{
+	height: 600px;
+}
+
+#content{
+	padding-top: 19%;
+	color: white;
+	text-align: center;
+	font-family: Lato;
+	font-size: 5em;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#image{
+	padding-top: 16%;
+	text-align: center;
+	position: relative;
+}
+
+.text{
+	padding-top: 10px;
+	color:  #0066ff;
+	font-family: 'Fjalla One', sans-serif;
+	line-height: 1.1;
+	font-weight: 500;
+	font-size: 42px;
+}
+ 
+ p{
+ 	color: black;
+ 	font-family: Lato;
+ 	font-size: 21px;
+ 	letter-spacing: 1px;
+ 	text-align: justify;
+ }
+
+ a#icon:hover{
+	color: white;
+	text-decoration: none;
+}
+
+a#icon:active{
+	color: white;
+	text-decoration: none;
+}
+
+
+a#fbicon:hover{
+	color: white;
+	text-decoration: none;
+}
+
+a#fbicon:active{
+	color: white;
+	text-decoration: none;
+}
+
+a#fbicon:link{
+	color: white;
+	text-decoration: none;
+}
+
+a#fbicon:visited{
+	color: white;
+	text-decoration: none;
+}
